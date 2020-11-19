@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Harald</h1>
+<h3 align="center">A developer in Oslo, Norway.</h3>
+
+<br/>
 
 - 🔭 I’m currently working at [@ITVerket](https://github.com/itverket)
 - 🌱 I’m currently learning **Kotlin**
