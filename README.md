@@ -3,9 +3,6 @@
 
 <br/>
 
-- 🔭 I’m currently working at [@ITVerket](https://github.com/itverket)
-- 🌱 I’m currently learning **Kotlin**
-
 <!--
 **haraldgronlie/haraldgronlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
